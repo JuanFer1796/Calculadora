@@ -7,6 +7,9 @@ import java.util.Scanner;
  */
 public class CalcuPrincipal {
 
+	/**
+	 * @param args programa principal
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String i = "n";

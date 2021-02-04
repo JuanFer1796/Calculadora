@@ -17,7 +17,7 @@ public class CalcuPila implements InterfazCalcu{
 	
 
 	/**
-	 * @param String uArchivo para la ubicación del archivo
+	 * @param  uArchivo String para la ubicación del archivo
 	 * @return retorna un String que muestra el contenido del archivo leido 
 	 */
 	public String leerDocu(String uArchivo) {
